@@ -1,0 +1,13 @@
+Ceci est la premiere ligne d'un exemple de fichier texte
+Il contient des lignes de chiffres de longueurs variables dont une de 59 caracteres, une de 60 caracteres et une de 61 caracteres
+12345678901234567890
+123456789012345678901234567890123456789012345678901234567890
+12345678901234567890123456789012345678901234567890123456789
+1234567890123456789012345678901234567890123456789012345678901
+1234567890123456789012345678901234567890
+La ligne suivante est vide
+
+Les deux lignes suivantes sont egalement vides
+
+
+Ceci est la derniere ligne du fichier
